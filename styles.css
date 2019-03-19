@@ -1,0 +1,29 @@
+.divtitle{
+    background-image: url(" https://cdn3.movieweb.com/i/article/AYZE9G5egkrI1HhK2XOGklql8W5Hra/798:50/Guardians-Galaxy-2-Casting-New-Characters.jpg");
+    height:300px;
+    color:yellow;
+    display:flex; 
+    text-align:center;
+    justify-content:center;
+}
+.title{
+    padding-top: 200px;
+    text-align:center;
+    font-family: 'Baloo Chettan', cursive;
+    text-shadow: 2px 2px #ff0000;
+}
+p{
+    font-family: 'Anton', sans-serif;
+}
+button{
+    font-family: 'Anton', sans-serif;
+    text-align:center;
+}
+body{
+    text-align:center;
+    background-color:gray;
+}
+.img{
+    width: 200px;
+}
+
